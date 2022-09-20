@@ -1,4 +1,5 @@
-To run the website, type cmd -> navigate to the folder containing the project -> type 'python manage.py runserver'.
+Github Repo - https://github.com/exodus31/Example_website.git
+To run the website -> clone the github repo -> open the terminal and type 'python manage.py runserver' and hit enter.
 
 My other Projects - 
 
