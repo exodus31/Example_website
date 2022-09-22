@@ -1,6 +1,8 @@
 Github Repo - https://github.com/exodus31/Example_website.git
 To run the website -> clone the github repo -> open the terminal and type 'python manage.py runserver' and hit enter.
 
+In this project, Data is sent from the database from django models and is reflected in the frontend in the required format.
+
 My other Projects - 
 
 1) Forum Website for intercation between Investors and Enterpreneurs - https://github.com/exodus31/https---github.com-exodus31-E-summit-2.git
